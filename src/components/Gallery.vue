@@ -2,47 +2,47 @@
   <div class="row tm-img-gallery">
     <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 col-xl-4">
       <a href="./images/tm-img-01.jpg">
-        <img src="./images/tm-img-01-tn.jpg" alt="Image" class="img-fluid tm-img">
+        <img src="./images/img_1.png" alt="Image" class="img-fluid tm-img">
       </a>
     </div>
     <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 col-xl-4">
       <a href="./images/tm-img-02.jpg">
-        <img src="./images/tm-img-02-tn.jpg" alt="Image" class="img-fluid tm-img">
+        <img src="./images/img_2.png" alt="Image" class="img-fluid tm-img">
       </a>
     </div>
     <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 col-xl-4">
       <a href="./images/tm-img-03.jpg">
-        <img src="./images/tm-img-03-tn.jpg" alt="Image" class="img-fluid tm-img">
+        <img src="./images/img_3.png" alt="Image" class="img-fluid tm-img">
       </a>
     </div>
     <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 col-xl-4">
       <a href="./images/tm-img-04.jpg">
-        <img src="./images/tm-img-04-tn.jpg" alt="Image" class="img-fluid tm-img">
+        <img src="./images/img_4.png" alt="Image" class="img-fluid tm-img">
       </a>
     </div>
     <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 col-xl-4">
       <a href="./images/tm-img-05.jpg">
-        <img src="./images/tm-img-05-tn.jpg" alt="Image" class="img-fluid tm-img">
+        <img src="./images/img_5.png" alt="Image" class="img-fluid tm-img">
       </a>
     </div>
     <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 col-xl-4">
       <a href="./images/tm-img-06.jpg">
-        <img src="./images/tm-img-06-tn.jpg" alt="Image" class="img-fluid tm-img">
+        <img src="./images/img_6.png" alt="Image" class="img-fluid tm-img">
       </a>
     </div>
     <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 col-xl-4">
       <a href="./images/tm-img-01.jpg">
-        <img src="./images/tm-img-01-tn.jpg" alt="Image" class="img-fluid tm-img">
+        <img src="./images/img_7.png" alt="Image" class="img-fluid tm-img">
       </a>
     </div>
     <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 col-xl-4">
       <a href="./images/tm-img-02.jpg">
-        <img src="./images/tm-img-02-tn.jpg" alt="Image" class="img-fluid tm-img">
+        <img src="./images/img_8.png" alt="Image" class="img-fluid tm-img">
       </a>
     </div>
     <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 col-xl-4">
       <a href="./images/tm-img-03.jpg">
-        <img src="./images/tm-img-03-tn.jpg" alt="Image" class="img-fluid tm-img">
+        <img src="./images/img_9.png" alt="Image" class="img-fluid tm-img">
       </a>
     </div>
   </div>
